@@ -1,5 +1,5 @@
 # biopy_blast
-使用NCBI的接口批量blast
+使用NCBI的接口批量比对核苷酸序列
 
 运行环境：  
 python3.6  
